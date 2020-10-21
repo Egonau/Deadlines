@@ -2,9 +2,8 @@
 ***
 * **Группа:** 10И3.
 * **VK:** https://vk.com/egonau
-* **Email:** 
-- egonau2012@gmail.com
-- eenaumov@edu.hse.ru
+* **Email:** 1. egonau2012@gmail.com
+             2. eenaumov@edu.hse.ru
 **
 ***
 **[ НАЗВАНИЕ ПРОЕКТА ]**
