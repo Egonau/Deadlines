@@ -1,9 +1,10 @@
 **НАУМОВ ЕГОР - ДЕДЛАЙНИК**
 ***
-**Группа: 10И3.
-VK: https://vk.com/egonau
-Email: egonau2012@gmail.com, 
-			 eenaumov@edu.hse.ru
+* **Группа:** 10И3.
+* **VK:** https://vk.com/egonau
+* **Email:** 
+- egonau2012@gmail.com
+- eenaumov@edu.hse.ru
 **
 ***
 **[ НАЗВАНИЕ ПРОЕКТА ]**
