@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Deadlines 1.0"
