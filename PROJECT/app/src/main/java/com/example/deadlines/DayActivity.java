@@ -75,7 +75,7 @@ public class DayActivity extends AppCompatActivity {
         }
         textViewDayName.setText(dayOfWeekString+ ", "+Single.getInstance().chosenDay+"."+Integer.parseInt(String.valueOf(Integer.parseInt(Single.getInstance().chosenMonth)+1))+"."+String.valueOf(Integer.parseInt(Single.getInstance().chosenYear)+1900));
         //наполнение расписания уроками
-        if (dayOfWeekString.equals("Воскресенье") || (Single.getInstance().schedule.size()==0)|| (Single.getInstance().credentialsOfUser.get("Group").equals("Нет группы")) ) {
+        if (dayOfWeekString.equals("Воскресенье") || (Single.getInstance().schedule.size()==0)|| (Single.getInstance().credentialsOfUser.get("Group").equals("Нет группы")) ||(Single.getInstance().credentialsOfUser.get("Group").equals(""))  ) {
         }
         else{
             HashMap<String, String> daySchedule = Single.getInstance().schedule.get(dayOfWeekString);
