@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799318872687",
+    "project_id": "deadlines-e9443",
+    "storage_bucket": "deadlines-e9443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799318872687:android:e09ae454639055b7b9b39a",
+        "android_client_info": {
+          "package_name": "com.example.deadlines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799318872687-qu1imuvog9if35ilcrjdptkga0cs0anq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCOLOc3C_WzeGFg2_pje96mV7JOCZHawc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799318872687-qu1imuvog9if35ilcrjdptkga0cs0anq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sorting"
+        android:icon="@drawable/ic_baseline_sort"
+        android:onClick="Sort"
+        android:title="Sorting"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/suggestion"
+        android:icon="@drawable/ic_baseline_suggestion"
+        android:onClick="Suggestions"
+        android:title="Suggestion"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings"
+        android:onClick="Settings"
+        android:title="Settings"
+        android:visible="true"
+        app:showAsAction="always"></item>
+</menu>

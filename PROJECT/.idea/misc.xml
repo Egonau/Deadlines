@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.23474903474903475" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_add_circle_red_24.xml" value="0.23474903474903475" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.2375" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.23474903474903475" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_info.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_open_in_browser_24.xml" value="0.2375" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_person_remove.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_remove_circle_24.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_settings.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_sort.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_baseline_suggestion.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_launcher_background.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/drawable/ic_outline_cancel_24.xml" value="0.2375" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_about.xml" value="0.22277992277992278" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_acceptance.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_day.xml" value="0.22" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_deadline.xml" value="0.2889733840304182" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_deadline_info.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_editing.xml" value="0.29375" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_login.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_olympiads.xml" value="0.25" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_registration.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_reset_password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_settings.xml" value="0.2889733840304182" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_sharing.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_sorting.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_splash.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_start.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/activity_test.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/deadline_info_row_layout.xml" value="0.3046875" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/item_acceptance_view.xml" value="0.25" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/item_olymps_view.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/item_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/standart_row(copy).xml" value="0.225390625" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/standart_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/layout/standart_row_copy.xml" value="0.225390625" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/menu/top_panel.xml" value="0.22" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/menu/top_panel_settings.xml" value="0.22277992277992278" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/egona/AndroidStudioProjects/Deadlines/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.31666666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
