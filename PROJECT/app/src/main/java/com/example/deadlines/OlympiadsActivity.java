@@ -21,7 +21,7 @@ public class OlympiadsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_olympiads);
         auth = FirebaseAuth.getInstance();
         olympsTextView = findViewById(R.id.olympsTextView);
-        olympsTextView.setText(Single.getInstance().credentialsOfUser.get("Olymps").toString()+ ". Олимпиады");
+        olympsTextView.setText(Single.getInstance().credentialsOfUser.get("Olymps").toString()+ " Олимпиады");
         parseOlymps();
         olympsRV = (RecyclerView)findViewById(R.id.olympsRV);
         olympsRV.setHasFixedSize(true);

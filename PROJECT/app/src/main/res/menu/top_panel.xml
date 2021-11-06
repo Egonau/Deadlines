@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/sorting"
-        android:icon="@drawable/ic_baseline_sort"
+        android:icon="@drawable/ic_baseline_filter_alt_24"
         android:onClick="Sort"
         android:title="Sorting"
         app:showAsAction="always" />
@@ -15,7 +15,7 @@
         app:showAsAction="always" />
     <item
         android:id="@+id/settings"
-        android:icon="@drawable/ic_baseline_settings"
+        android:icon="@drawable/ic_baseline_person_24"
         android:onClick="Settings"
         android:title="Settings"
         android:visible="true"

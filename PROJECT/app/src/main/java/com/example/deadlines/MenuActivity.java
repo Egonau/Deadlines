@@ -229,6 +229,9 @@ public class MenuActivity extends AppCompatActivity {
             }
         });
     }
+    @Override
+    public void onBackPressed() {
+    }
     //получение данных пользователя
     public void getCredentials(){
         FirebaseDatabase.getInstance().getReference().child(Objects.requireNonNull(auth.getUid())).child("Credentials").addValueEventListener(new ValueEventListener() {
